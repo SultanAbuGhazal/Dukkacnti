@@ -1,2 +1,2 @@
-# Dukkacnti
+# Dukkanti
 Upcoming project
